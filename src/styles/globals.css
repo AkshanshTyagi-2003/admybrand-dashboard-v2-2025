@@ -1,0 +1,9 @@
+@import "tailwindcss/preflight";
+/* @tailwind components;   <-- Remove this line */
+@tailwind utilities;
+
+
+html {
+  scroll-behavior: smooth;
+}
+ 
